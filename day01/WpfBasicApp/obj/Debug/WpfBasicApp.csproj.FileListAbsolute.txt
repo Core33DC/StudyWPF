@@ -13,3 +13,8 @@ C:\Users\pknu\StudyWPF\day01\WpfBasicApp\obj\Debug\WpfBasicApp.csproj.GenerateRe
 C:\Users\pknu\StudyWPF\day01\WpfBasicApp\obj\Debug\WpfBasicApp.csproj.CoreCompileInputs.cache
 C:\Users\pknu\StudyWPF\day01\WpfBasicApp\obj\Debug\WpfBasicApp.exe
 C:\Users\pknu\StudyWPF\day01\WpfBasicApp\obj\Debug\WpfBasicApp.pdb
+C:\Users\pknu\StudyWPF\day01\WpfBasicApp\obj\Debug\SubWindow.g.cs
+C:\Users\pknu\StudyWPF\day01\WpfBasicApp\obj\Debug\WpfBasicApp_Content.g.cs
+C:\Users\pknu\StudyWPF\day01\WpfBasicApp\obj\Debug\SubWindow.baml
+C:\Users\pknu\StudyWPF\day01\WpfBasicApp\obj\Debug\ThirdWindow.g.cs
+C:\Users\pknu\StudyWPF\day01\WpfBasicApp\obj\Debug\ThirdWindow.baml

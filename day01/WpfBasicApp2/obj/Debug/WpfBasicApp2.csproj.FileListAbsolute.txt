@@ -1,0 +1,15 @@
+C:\Users\pknu\StudyWPF\day01\WpfBasicApp2\obj\Debug\WpfBasicApp2.csproj.AssemblyReference.cache
+C:\Users\pknu\StudyWPF\day01\WpfBasicApp2\obj\Debug\MainWindow.g.cs
+C:\Users\pknu\StudyWPF\day01\WpfBasicApp2\obj\Debug\App.g.cs
+C:\Users\pknu\StudyWPF\day01\WpfBasicApp2\obj\Debug\WpfBasicApp2_MarkupCompile.cache
+C:\Users\pknu\StudyWPF\day01\WpfBasicApp2\obj\Debug\WpfBasicApp2_MarkupCompile.lref
+C:\Users\pknu\StudyWPF\day01\WpfBasicApp2\bin\Debug\WpfBasicApp2.exe.config
+C:\Users\pknu\StudyWPF\day01\WpfBasicApp2\bin\Debug\WpfBasicApp2.exe
+C:\Users\pknu\StudyWPF\day01\WpfBasicApp2\bin\Debug\WpfBasicApp2.pdb
+C:\Users\pknu\StudyWPF\day01\WpfBasicApp2\obj\Debug\MainWindow.baml
+C:\Users\pknu\StudyWPF\day01\WpfBasicApp2\obj\Debug\WpfBasicApp2.g.resources
+C:\Users\pknu\StudyWPF\day01\WpfBasicApp2\obj\Debug\WpfBasicApp2.Properties.Resources.resources
+C:\Users\pknu\StudyWPF\day01\WpfBasicApp2\obj\Debug\WpfBasicApp2.csproj.GenerateResource.cache
+C:\Users\pknu\StudyWPF\day01\WpfBasicApp2\obj\Debug\WpfBasicApp2.csproj.CoreCompileInputs.cache
+C:\Users\pknu\StudyWPF\day01\WpfBasicApp2\obj\Debug\WpfBasicApp2.exe
+C:\Users\pknu\StudyWPF\day01\WpfBasicApp2\obj\Debug\WpfBasicApp2.pdb

@@ -1,0 +1,17 @@
+C:\Users\pknu\StudyWPF\day01\WpfBikeShop\bin\Debug\WpfBikeShop.exe.config
+C:\Users\pknu\StudyWPF\day01\WpfBikeShop\bin\Debug\WpfBikeShop.exe
+C:\Users\pknu\StudyWPF\day01\WpfBikeShop\bin\Debug\WpfBikeShop.pdb
+C:\Users\pknu\StudyWPF\day01\WpfBikeShop\obj\Debug\MainWindow.g.cs
+C:\Users\pknu\StudyWPF\day01\WpfBikeShop\obj\Debug\App.g.cs
+C:\Users\pknu\StudyWPF\day01\WpfBikeShop\obj\Debug\WpfBikeShop_MarkupCompile.cache
+C:\Users\pknu\StudyWPF\day01\WpfBikeShop\obj\Debug\WpfBikeShop_MarkupCompile.lref
+C:\Users\pknu\StudyWPF\day01\WpfBikeShop\obj\Debug\MainWindow.baml
+C:\Users\pknu\StudyWPF\day01\WpfBikeShop\obj\Debug\WpfBikeShop.g.resources
+C:\Users\pknu\StudyWPF\day01\WpfBikeShop\obj\Debug\WpfBikeShop.Properties.Resources.resources
+C:\Users\pknu\StudyWPF\day01\WpfBikeShop\obj\Debug\WpfBikeShop.csproj.GenerateResource.cache
+C:\Users\pknu\StudyWPF\day01\WpfBikeShop\obj\Debug\WpfBikeShop.csproj.CoreCompileInputs.cache
+C:\Users\pknu\StudyWPF\day01\WpfBikeShop\obj\Debug\WpfBikeShop.exe
+C:\Users\pknu\StudyWPF\day01\WpfBikeShop\obj\Debug\WpfBikeShop.pdb
+C:\Users\pknu\StudyWPF\day01\WpfBikeShop\obj\Debug\WpfBikeShop.csproj.AssemblyReference.cache
+C:\Users\pknu\StudyWPF\day01\WpfBikeShop\obj\Debug\Contact.g.cs
+C:\Users\pknu\StudyWPF\day01\WpfBikeShop\obj\Debug\Contact.baml

@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\pknu\StudyWPF\day01\WpfBasicApp\App.xaml
-11151548125
-
-61434861427
+3378507776
+1-809260376
+8-1055211018
 13-1505183044
-MainWindow.xaml;
+MainWindow.xaml;SubWindow.xaml;ThirdWindow.xaml;
 
-True
+False
 
