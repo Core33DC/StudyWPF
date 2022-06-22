@@ -6,7 +6,8 @@
         xmlns:local="clr-namespace:WpfBasicApp"
         mc:Ignorable="d"
         Title="WpfBasicApp" Height="280" Width="190"
-        ResizeMode="NoResize">
+        ResizeMode="NoResize"
+        >
     <StackPanel>
         <TextBlock Text="TextBlock" Width="150" Height="30" />
         <Label Content="Label" Width="150" Height="30" />
